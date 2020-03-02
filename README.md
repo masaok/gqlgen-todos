@@ -1,1 +1,1 @@
-init
+https://gqlgen.com/getting-started/
